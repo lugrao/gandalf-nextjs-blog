@@ -13,16 +13,13 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hello, fellow friend! I am here to help you throwing out your
-          jewellery into Mount Doom.
+          ¡Hola, <i>mellon</i>! Soy un Istar que está acá para ayudarte a arrojar tus joyas al Monte del Destino. 
         </p>
         <p>
-          Please message me whenever you feel the burden is too
-          heavy.
+          Por favor, sentite libre de mandarme un mensaje cuando pienses que la <strong>carga</strong> es demasiado pesada.
         </p>
         <p>
-          <a href="https://lotr.fandom.com/wiki/Gandalf">Here</a> you can learn
-          more about me and my affairs.
+          <a href="https://lotr.fandom.com/wiki/Gandalf">Acá</a> podés saber más acerca de mí y de mis asuntos.
         </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
