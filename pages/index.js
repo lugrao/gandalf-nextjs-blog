@@ -13,7 +13,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          ¡Hola, <i>mellon</i>! Soy un Istar que está acá para ayudarte a arrojar tus joyas al Monte del Destino. 
+          ¡Hola, <a href="https://www.elfdict.com/wt/14725"><i>mellon</i></a>! Soy un Istar que está acá para ayudarte a arrojar tus joyas al Monte del Destino. 
         </p>
         <p>
           Por favor, sentite libre de mandarme un mensaje cuando pienses que la <strong>carga</strong> es demasiado pesada.
