@@ -1,6 +1,6 @@
 ---
 title: 'La verdad sobre Tom Bombadil'
-date: '2020-01-02'
+date: '1963-01-03'
 ---
 
 **Tom Bombadil** es un tipo sencillo, sí. O eso es lo que nos quiere hacer creer él.

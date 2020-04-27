@@ -13,11 +13,11 @@ export default function Layout({ children, home }) {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="Learn how to build a personal website using Next.js"
+          content="El blog de Gandalf"
         />
         <meta
           property="og:image"
-          content="../public/images/og-image.jpg"
+          content="https://audiograb.files.wordpress.com/2015/04/gandalf-fumando-pipa.jpg"
         />
         <meta name="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary_large_image" />
