@@ -1,2 +1,3 @@
-Blog hecho en Next.js y con deploy en Vercel.
-https://gandalf-nextjs-blog.now.sh/
+# El [blog de Gandalf](https://gandalf-nextjs-blog.vercel.app/)
+
+Blog hecho con Next.js. Deploy vía Vercel.
